@@ -8,9 +8,9 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/barndev/sdk",
+  "repository": "https://github.com/barnsale/sdk",
   "keywords": [
-    "barndev",
+    "barnsale",
     "avalanche",
     "polygon"
   ],
